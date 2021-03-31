@@ -4,6 +4,6 @@
 namespace FontAudioData
 {
 	extern const char*	FontAudiowebfont_ttf;
-	const int			FontAudiowebfont_ttfSize = 40136;
+	const int			FontAudiowebfont_ttfSize = 40148;
 }
 
